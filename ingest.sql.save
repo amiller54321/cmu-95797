@@ -1,0 +1,2 @@
+SELECT * FROM read_csv_auto('data/daily_citi_bike_trip_counts_and_weather.csv');
+
