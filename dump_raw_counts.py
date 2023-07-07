@@ -9,7 +9,7 @@ raw_tables = [
     "fhvhv_tripdata",
     "green_tripdata",
     "yellow_tripdata",
-    ##"bike_data",
+    ##"bike_data", unable to import the data so not able to include the raw counts
 ]
 
 def main(conn):
